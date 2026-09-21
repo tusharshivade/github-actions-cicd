@@ -16,4 +16,5 @@ jobs:
         
       - name: Deploy  the code
         run: echo "Code build using EC2 instance"
+         -   echo "Deploy the code successfully "
    
